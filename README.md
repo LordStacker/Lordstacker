@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicola Martinez</h1>
 <h3 align="center">A passionate for technologies and learning new skills</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lordstacker" alt="lordstacker" /></a> </p>
-
 - 🌱 I’m currently learning **Express**
 
 - 💬 Ask me about **all you want to know**

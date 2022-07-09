@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicola Martinez</h1>
 <h3 align="center">A passionate for technologies and learning new skills</h3>
 
-- 🌱 I’m currently learning **Express** and **NestJs**
+- 🌱 I’m currently learning **Express**
 
 - 💬 Ask me about **all you want to know**
 
